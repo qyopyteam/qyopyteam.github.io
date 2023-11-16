@@ -29,7 +29,7 @@ const music_list = [
     },
     {
         img : 'images/velocitypulse.png',
-        name : 'Wint3rsx',
+        name : 'Velocity Pulse',
         artist : 'Wint3rsx',
         music : 'music/VelocityPulse.wav'
     }
