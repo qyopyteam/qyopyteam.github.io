@@ -29,6 +29,18 @@ const music_list = [
     },
     {
         img : 'images/cover.jpg',
+        name : 'Moonlight Rac3r Slowed',
+        artist : 'Wint3rsx',
+        music : 'music/drumnbassslowed.wav'
+    },
+	{
+        img : 'images/cover.jpg',
+        name : 'Moonlight Rac3r Sped Up',
+        artist : 'Wint3rsx',
+        music : 'music/drumnbassspedup.wav'
+    },
+	{
+        img : 'images/cover.jpg',
         name : 'Velocity Pulse',
         artist : 'Wint3rsx',
         music : 'music/VelocityPulse.wav'
