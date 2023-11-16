@@ -43,7 +43,7 @@ const music_list = [
         img : 'images/cover.jpg',
         name : 'Velocity Pulse',
         artist : 'Wint3rsx',
-        music : 'music/VelocityPulse.wav'
+        music : 'music/velocitypulse2.wav'
     }
     
 ];
