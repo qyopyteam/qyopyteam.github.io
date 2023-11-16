@@ -28,10 +28,10 @@ const music_list = [
         music : 'music/drumnbass.wav'
     },
     {
-        img : 'images/mrmiyagi.png',
+        img : 'images/velocitypulse.png',
         name : 'Wint3rsx',
         artist : 'Wint3rsx',
-        music : 'music/MrMiyagi.wav'
+        music : 'music/VelocityPulse.wav'
     }
     
 ];
