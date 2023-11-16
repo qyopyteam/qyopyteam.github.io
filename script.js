@@ -22,13 +22,13 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'images/drum and bass.jpg',
+        img : 'images/cover.jpg',
         name : 'Moonlight Rac3r',
         artist : 'Wint3rsx',
         music : 'music/drumnbass.wav'
     },
     {
-        img : 'images/velocitypulse.png',
+        img : 'images/cover.jpg',
         name : 'Velocity Pulse',
         artist : 'Wint3rsx',
         music : 'music/VelocityPulse.wav'
