@@ -22,137 +22,18 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'images/cancún.jpg',
-        name : 'Cancún',
-        artist : 'Playboi Carti',
-        music : 'music/Cancún.wav'
+        img : 'images/drum and bass.jpg',
+        name : 'Drum And Bass',
+        artist : 'Wint3rsx',
+        music : 'music/drumnbass.wav'
     },
     {
         img : 'images/mrmiyagi.png',
-        name : 'Mr. Miyagi',
-        artist : 'Future, Kanye West, Playboi Carti',
+        name : 'Wint3rsx',
+        artist : 'Wint3rsx',
         music : 'music/MrMiyagi.wav'
-    },
-    {
-        img : 'images/molly.jpg',
-        name : 'Molly Original Version',
-        artist : 'Playboi Carti',
-        music : 'music/Molly.wav'
-    },
-    {
-        img : 'images/Ronald.jpg',
-        name : 'Ronald',
-        artist : 'Juice WRLD & Playboi Carti',
-        music : 'music/Ronald.wav'
-    },
-  {
-        img : 'images/medusa.png',
-        name : 'Medusa Instrumental',
-        artist : 'Playboi Carti',
-        music : 'music/Medusa (Rager).wav'
-    },
-  {
-        img : 'images/thatsa50.jpg',
-        name : 'Thats A 50',
-        artist : 'Juice WRLD & Playboi Carti',
-        music : 'music/Thats A 50.wav'
-    },
-  {
-        img : 'images/oneday.png',
-        name : 'One Day',
-        artist : 'Drake & Playboi Carti',
-        music : 'music/One Day.wav'
-    },
-  {
-        img : 'images/Lean.jpg',
-        name : 'Lean',
-        artist : 'Playboi Carti',
-        music : 'music/Lean.wav'
-    },
-  {
-        img : 'images/bigbs.png',
-        name : 'Big Bs',
-        artist : 'Playboi Carti',
-        music : 'music/Big Bs.wav'
-    },
-  {
-        img : 'images/celine.png',
-        name : 'Celine (Molly My Bean)',
-        artist : 'Playboi Carti',
-        music : 'music/Celine.wav'
-    },
-  {
-        img : 'images/butterflydoors.jpg',
-        name : 'Butterfly Doors',
-        artist : 'Playboi Carti',
-        music : 'music/Butterfly Doors.wav'
-    },
-  {
-        img : 'images/breakthebank.jpg',
-        name : 'Break The Bank',
-        artist : 'Lil Uzi Vert & Playboi Carti',
-        music : 'music/Break The Bank.wav'
-    },
-  {
-        img : 'images/balmainjeans.png',
-        name : 'Balmain Jeans',
-        artist : 'Playboi Carti & Lil Yachty',
-        music : 'music/Balmain Jeans.wav'
-    },
-  {
-        img : 'images/bigbank.jpg',
-        name : 'Big Bank',
-        artist : 'Playboi Carti & Lil Uzi Vert',
-        music : 'music/Big Bank.wav'
-    },
-  {
-        img : 'images/Cartier.jpg',
-        name : 'Cartier Original Version',
-        artist : 'Playboi Carti & Lil Uzi Vert',
-        music : 'music/Cartier.wav'
-    },
-  {
-        img : 'images/brandnew.jpg',
-        name : 'Brand New',
-        artist : 'Playboi Carti',
-        music : 'music/Brand New.wav'
-    },
-  {
-        img : 'images/finesse.jpg',
-        name : 'Finesse Remix',
-        artist : 'Playboi Carti',
-        music : 'music/FinesseRemix.wav'
-    },
-  {
-        img : 'images/dope.jpg',
-        name : 'Dope',
-        artist : 'Playboi Carti',
-        music : 'music/Dope.wav'
-    },
-  {
-        img : 'images/Essential.jpg',
-        name : 'Essential',
-        artist : 'Playboi Carti',
-        music : 'music/Essential.wav'
-    },
-  {
-        img : 'images/Toke.jpg',
-        name : 'Toke Shit',
-        artist : 'Playboi Carti',
-        music : 'music/TokeShit.wav'
-    },
-  {
-        img : 'images/TooMany.jpg',
-        name : 'Too Many',
-        artist : 'Playboi Carti',
-        music : 'music/TooMany.wav'
-    },
-  {
-        img : 'images/BandsUp.jpg',
-        name : 'Bands Up V2',
-        artist : 'Playboi Carti & Pierre Bourne',
-        music : 'music/BandsUp.wav'
     }
+    
 ];
 
 loadTrack(track_index);
