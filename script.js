@@ -23,7 +23,7 @@ let updateTimer;
 const music_list = [
     {
         img : 'images/drum and bass.jpg',
-        name : 'Drum And Bass',
+        name : 'Moonlight Rac3r',
         artist : 'Wint3rsx',
         music : 'music/drumnbass.wav'
     },
