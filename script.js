@@ -55,13 +55,13 @@ const music_list = [
         img : 'images/cover.jpg',
         name : 'Chill And JunglE',
         artist : 'Wint3rsx',
-        music : 'music/JunglE.wav'
+        music : 'music/Jungie.wav'
     },
 	{
         img : 'images/cover.jpg',
         name : 'Chill And JunglE Slowed',
         artist : 'Wint3rsx',
-        music : 'music/JunglESlowed.wav'
+        music : 'music/Jungieslowed.wav'
     },
 	{
         img : 'images/cover.jpg',
